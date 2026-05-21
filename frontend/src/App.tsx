@@ -14,7 +14,7 @@ const App = () => {
   return( 
  <div>
   <h1 className = "text-3xl text-red-700 p-4" > 
-    AICost Auditor
+   Purus Gemini
     </h1>
   <h2 className = "text-2xl text-blue-600 p-4" >
      Welcome to the App
