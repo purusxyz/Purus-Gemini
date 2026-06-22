@@ -30,7 +30,7 @@ function App() {
   return (
    <div className="grid grid-cols-6 ">
     <div className="col-span-1 border-r border-gray-700 h-screen text-pink-700">
-      hello
+      Sidebar
     </div>
     <div className="col-span-5">
       <div className="container h-160">
