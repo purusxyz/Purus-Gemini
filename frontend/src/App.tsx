@@ -33,7 +33,7 @@ function App() {
       hello
     </div>
     <div className="col-span-5">
-      <div className="container h-120">
+      <div className="container m-10">
 
       </div>
       <div className=" px-3 flex bg-zinc-900 text-gray-200 w-1/2 m-auto rounded-4xl border border-gray-700">
